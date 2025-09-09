@@ -1,0 +1,10 @@
+/home/mastyx/LAB/playrusty/playrusty/target/debug/deps/libsymphonia_format_riff-6cef17b2b2255dd9.rmeta: /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-format-riff-0.5.4/src/lib.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-format-riff-0.5.4/src/common.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-format-riff-0.5.4/src/wave/mod.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-format-riff-0.5.4/src/wave/chunks.rs
+
+/home/mastyx/LAB/playrusty/playrusty/target/debug/deps/libsymphonia_format_riff-6cef17b2b2255dd9.rlib: /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-format-riff-0.5.4/src/lib.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-format-riff-0.5.4/src/common.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-format-riff-0.5.4/src/wave/mod.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-format-riff-0.5.4/src/wave/chunks.rs
+
+/home/mastyx/LAB/playrusty/playrusty/target/debug/deps/symphonia_format_riff-6cef17b2b2255dd9.d: /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-format-riff-0.5.4/src/lib.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-format-riff-0.5.4/src/common.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-format-riff-0.5.4/src/wave/mod.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-format-riff-0.5.4/src/wave/chunks.rs
+
+/home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-format-riff-0.5.4/src/lib.rs:
+/home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-format-riff-0.5.4/src/common.rs:
+/home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-format-riff-0.5.4/src/wave/mod.rs:
+/home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-format-riff-0.5.4/src/wave/chunks.rs:

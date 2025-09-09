@@ -1,0 +1,10 @@
+/home/mastyx/LAB/playrusty/playrusty/target/debug/deps/libsymphonia_utils_xiph-3701a0d268329bdb.rmeta: /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/lib.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/flac/mod.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/flac/metadata.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/vorbis/mod.rs
+
+/home/mastyx/LAB/playrusty/playrusty/target/debug/deps/libsymphonia_utils_xiph-3701a0d268329bdb.rlib: /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/lib.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/flac/mod.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/flac/metadata.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/vorbis/mod.rs
+
+/home/mastyx/LAB/playrusty/playrusty/target/debug/deps/symphonia_utils_xiph-3701a0d268329bdb.d: /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/lib.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/flac/mod.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/flac/metadata.rs /home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/vorbis/mod.rs
+
+/home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/lib.rs:
+/home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/flac/mod.rs:
+/home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/flac/metadata.rs:
+/home/mastyx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/vorbis/mod.rs:
