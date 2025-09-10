@@ -381,7 +381,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
                                         // se il caricamento e andato a buon fine
                                         if let Err(e) = player.play_playlist() {
                                             println!(
-                                                "❌ Errore nell'avvio della playlist : {} ",
+                                                " ❌ Errore nell'avvio della playlist : {} ",
                                                 e
                                             );
                                         }
